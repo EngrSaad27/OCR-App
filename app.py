@@ -1,3 +1,5 @@
+pip install gradio
+
 import gradio as gr
 import os
 import uuid
