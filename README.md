@@ -8,6 +8,11 @@
   <img src="App interface.png" alt="Project Banner" width="800"/>
 </p>
 
+# 🙏 Credit
+
+***Special thanks to [Haoran Wei](https://github.com/Ucas-HaoranWei) who build OCR model for us!***
+
+
 ## 🌟 Project Description
 Optical Character Recognition (OCR) is a widely used technology designed to extract text characters from images and convert them into editable text formats. Beyond text extraction, OCR is also employed for element detection and region-specific cropping within images, making it a versatile tool for document processing and analysis.
 
