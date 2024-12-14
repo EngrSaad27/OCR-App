@@ -8,9 +8,9 @@
   <img src="App interface.png" alt="Project Banner" width="800"/>
 </p>
 
-# 🙏 Credit
+# 💼 Credit
 
-***Special thanks to [Haoran Wei](https://github.com/Ucas-HaoranWei) who build OCR model for us!***
+***Special thanks to [Haoran Wei](https://github.com/Ucas-HaoranWei) who built OCR model for us!***
 
 
 ## 🌟 Project Description
@@ -23,3 +23,8 @@ The next-generation OCR 2.0 models come with key features that set them apart:
 - End-to-End Architecture: Streamlines processes, reducing maintenance overhead.
 - Cost Efficiency: Ensures low training and inference costs.
 - Versatility: Adaptable to a wide range of applications, making it suitable for diverse use cases.
+
+## 🎯 Features
+- Accurately extract text from images
+- Support for printed, handwritten, or stylized text
+- Easy to used App
