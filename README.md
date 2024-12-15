@@ -65,6 +65,55 @@ The next-generation OCR 2.0 models come with key features that set them apart:
   <img src="App Results/output 4.1.JPG" alt="Project Banner" width="600"/>
 </p>
 
+### 📄 Project Workflow
+
+1. **Model Uploading**
+   - Initialize tokenizer and model
+  
+2. **Folder Uploading**
+   - Define upload folder
+  
+3. **Gradio Interface**
+   - Function to handle OCR process
+   - Perform OCR based on selected mode
+   - Launch the app  
+
+## 🚀 App Activation & Library installation
+
+### Environment Setup
+
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate environment
+# For Windows
+.\venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## 💻 Application Launch
+```bash
+python app.py
+```
+
+## 👥 **Customer Segmentation App Output**
+
+   <p align="center">
+    <img src="Customer Segmentation visuals.PNG" alt="Project Banner" width="800"/>
+  </p>
+ 
+## 🙏 Acknowledgments
+
+- [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+- Gradio Community
+- Visual Studio Code
+
+## 📞 Contact
+Feel free to reach out: [Email](mailto:isaad1066@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saadkhalid123/) 
+
 
 
 
