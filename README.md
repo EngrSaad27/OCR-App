@@ -28,3 +28,4 @@ The next-generation OCR 2.0 models come with key features that set them apart:
 - Accurately extract text from images
 - Support for printed, handwritten, or stylized text
 - Easy to used App
+
