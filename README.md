@@ -98,12 +98,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-## 👥 **Customer Segmentation App Output**
-
-   <p align="center">
-    <img src="Customer Segmentation visuals.PNG" alt="Project Banner" width="800"/>
-  </p>
  
 ## 🙏 Acknowledgments
 
