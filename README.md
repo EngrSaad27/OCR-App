@@ -5,10 +5,10 @@
 [![VSCode](https://img.shields.io/badge/VSCode%20-1.96-76B900.svg)](https://code.visualstudio.com/download)
 
 <p align="center">
-  <img src="App interface.png" alt="Project Banner" width="800"/>
+  <img src="App Results/App interface.png" alt="Project Banner" width="800"/>
 </p>
 
-# 💼 Credit
+## 💼 Credit
 
 ***Special thanks to [Haoran Wei](https://github.com/Ucas-HaoranWei) who built OCR model for us!***
 
@@ -28,4 +28,44 @@ The next-generation OCR 2.0 models come with key features that set them apart:
 - Accurately extract text from images
 - Support for printed, handwritten, or stylized text
 - Easy to used App
+
+## App Results
+### 1st Input Snapshot
+<p align="center">
+  <img src="App Results/input 1.JPG" alt="Project Banner" width="600"/>
+</p>
+
+### 1st Output Snapshot
+<p align="center">
+  <img src="App Results/output 1.JPG" alt="Project Banner" width="600"/>
+</p
+
+
+
+### 2nd Input Snapshot
+<p align="center">
+  <img src="App Results/input 2.JPG" alt="Project Banner" width="600"/>
+</p>
+
+
+### 2nd Output Snapshot
+<p align="center">
+  <img src="App Results/output 2.JPG" alt="Project Banner" width="600"/>
+</p>
+
+
+### 3rd Input Snapshot
+<p align="center">
+  <img src="App Results/input 4.1.JPG" alt="Project Banner" width="600"/>
+</p>
+
+
+### 3rd Output Snapshot
+<p align="center">
+  <img src="App Results/output 4.1.JPG" alt="Project Banner" width="600"/>
+</p>
+
+
+
+
 
